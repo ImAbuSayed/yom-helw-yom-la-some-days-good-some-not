@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي يغني في الليل
+> والنجوم تحكي قصة هذا الميل
+> أنت النور الذي يضيء السماء
+> وغيابك يتركني في العناء
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
