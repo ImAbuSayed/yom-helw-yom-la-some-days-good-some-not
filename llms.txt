@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Yom Helw Yom La – Some days good, some not |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 30, 2026 |
+| Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/yom-helw-yom-la-some-days-good-some-not/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي يغني في الليل
+> والنجوم تحكي قصة هذا الميل
+> أنت النور الذي يضيء السماء
+> وغيابك يتركني في العناء
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
